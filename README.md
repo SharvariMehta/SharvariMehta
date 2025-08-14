@@ -1,9 +1,3 @@
-# 👋 Hi there, I'm Sharvari Mehta  
- 
-💼 *ISTQB CTFL | SDET | 7 YOE | Web & API Automation | Java, Selenium, Cucumber, SQL, REST-Assured, Postman | CI-Jenkins | Agile*  
-
----
-
 ## 🚀 About Me  
 🎯 **SDET with expertise in Web & API Test Automation**  
 🧩 Skilled in **Java, Selenium, Cucumber, SQL, REST-Assured, Postman**  
