@@ -30,9 +30,3 @@
 🔹 [**Web Automation Framework (Selenium + Cucumber)**](#) – Hybrid BDD framework with reusable components  
 🔹 [**API Automation Testing with REST-Assured**](#) – Request chaining, schema validation & reporting  
 🔹 [**API Manual Testing with Postman Collections**](#) – End-to-end API manual testing repository using Postman Collections
-
----
-
-## 🙋‍♂️ Let's Connect
-Feel free to explore, fork, or suggest improvements!  
-📧 [sharvarimehta97@gmail.com] | 💼 [linkedin.com/in/sharvarimehta]
