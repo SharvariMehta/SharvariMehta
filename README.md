@@ -1,7 +1,6 @@
 ## 🚀 About Me
 
-Hi, I’m **Sharvari Mehta** — a passionate **SDET** with expertise in **UI & API automation** using **Java**, **Selenium**, **REST Assured**, and **Postman**.  
-I design **robust**, **maintainable test frameworks** and integrate them seamlessly into **CI/CD pipelines** using **Jenkins**.  
+Hi, I’m **Sharvari Mehta** — a passionate **SDET** with expertise in **UI & API automation** using **Java**, **Selenium**, **REST Assured**, and **Postman**. I design **robust**, **maintainable test frameworks** and integrate them seamlessly into **CI/CD pipelines** using **Jenkins**.  
 Recently, I’ve been exploring **Generative AI** for **test case generation**, **automation script optimization**, and **test planning**.
 
 ---
