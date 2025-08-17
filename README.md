@@ -19,6 +19,14 @@ Recently, I’ve been exploring **Generative AI** for **test case generation**, 
 ---
 
 ## 📂 Featured Projects  
-🔹 [**Web Automation Framework (Selenium + Cucumber)**](#) – Hybrid BDD framework with reusable components  
-🔹 [**API Automation Testing with REST-Assured**](#) – Request chaining, schema validation & reporting  
-🔹 [**API Manual Testing with Postman Collections**](#) – End-to-end API manual testing repository using Postman Collections
+🔹 [**Web Automation Framework (Selenium + Cucumber)**](#) – Hybrid BDD framework with reusable components   
+🔹 [**API Automation Framework (REST-Assured)**](#) – Request chaining, schema validation & reporting    
+🔹 [**API Manual Testing with REST API**](https://github.com/SharvariMehta/ManualTesting-API-REST) – E2E API manual testing repository using REST API - JSON and Postman Collections.  
+🔹 [**API Manual Testing with SOAP API**](https://github.com/SharvariMehta/ManualTesting-API-SOAP) – E2E API manual testing repository using SOAP API - XML.    
+🔹 [**Java4SDET**](https://github.com/SharvariMehta/Java4SDET) – Core Java programs covering OOPs, Collections, Multithreading, Exception Handling, and Coding Challenges  
+
+## 🙋‍♀️ Let’s Connect 👩‍💻
+
+- 📧 **Email:** [sharvarimehta97@gmail.com](mailto:sharvarimehta97@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/sharvarimehta](https://www.linkedin.com/in/sharvarimehta) 
+- 🔗 **Postman Profile:** [postman.com/sharvarimehta](https://www.postman.com/sharvarimehta)
