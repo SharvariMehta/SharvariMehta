@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-Hi, I’m **Sharvari Mehta** — a passionate **SDET** with expertise in **UI & API automation** using **Java**, **Selenium**, **REST Assured**, and **Postman**. I design **robust**, **maintainable test frameworks** and integrate them seamlessly into **CI/CD pipelines** using **Jenkins**.  
+Hi, I’m **Sharvari Mehta** — a passionate **SDET** with expertise in **UI & API Automation** using **Java**, **Selenium**, **Cucumber**, **REST Assured**, and **Postman**. I design **robust**, **maintainable test frameworks** and integrate them seamlessly into **CI/CD pipelines** using **Jenkins**.  
 Recently, I’ve been exploring **Generative AI** for **test case generation**, **automation script optimization**, and **test planning**.
 
 ---
@@ -22,13 +22,16 @@ Recently, I’ve been exploring **Generative AI** for **test case generation**, 
 🔹 [**Web Automation Framework (Selenium + Cucumber)**](#) – Hybrid BDD framework with reusable components.   
 🔹 [**API Automation Framework (REST-Assured)**](#) – Request chaining, schema validation & reporting.    
 🔹 [**API Automation using Postman and REST API**](https://github.com/SharvariMehta/API-Chaining-with-REST-API) – E2E CRUD API Chaining Workflow with Postman(Auth + Create + Read + Update + Delete).  
+🔹 [**API Automation using Postman - DDT**](https://github.com/SharvariMehta/API-Automation-using-Postman-DDT) – Automated Google Search testing using Postman - Data Driven Testing (DDT).  
 🔹 [**API Manual Testing with REST API**](https://github.com/SharvariMehta/ManualTesting-API-REST) – E2E API manual testing repository using REST API - JSON and Postman Collections.       
 🔹 [**API Manual Testing with SOAP API**](https://github.com/SharvariMehta/ManualTesting-API-SOAP) – E2E API manual testing repository using SOAP API - XML.    
 🔹 [**Java4SDET**](https://github.com/SharvariMehta/Java4SDET) – Core Java programs covering OOPs, Collections, Multithreading, Exception Handling, and Coding Challenges.  
 
-## 🙋‍♀️ Let’s Connect 👩‍💻
+---
+## 🙋‍♀️ Let’s Connect 
 
 - 📧 **Email:** [sharvarimehta97@gmail.com](mailto:sharvarimehta97@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/sharvarimehta](https://www.linkedin.com/in/sharvarimehta)  
 - 🚀 **GitHub:** [github.com/SharvariMehta](https://github.com/SharvariMehta)  
-- 🔗 **Postman:** [postman.com/sharvarimehta](https://www.postman.com/sharvarimehta)  
+- 🔗 **Postman:** [postman.com/sharvarimehta](https://www.postman.com/sharvarimehta)
+--- 
