@@ -21,7 +21,7 @@ Recently, I’ve been exploring **Generative AI** for **test case generation**, 
 
 ## 📂 Featured Projects  
 🔹 [**Web Automation Framework (Selenium + Cucumber)**](#) – Hybrid BDD framework with reusable components.   
-🔹 [**API Automation Framework (REST-Assured)**](#) – Request chaining, schema validation & reporting.    
+🔹 [**API Automation Framework (REST-Assured)**](https://github.com/SharvariMehta/API-Automation-Framework-REST-Assured) – API Automation Framework built with Java + REST Assured is CI/CD ready with Jenkins integration, and clean code quality via SonarLint.   
 🔹 [**API Automation using Postman and REST API**](https://github.com/SharvariMehta/API-Chaining-with-REST-API) – E2E CRUD API Chaining Workflow with Postman(Auth + Create + Read + Update + Delete).  
 🔹 [**API Automation using Postman - DDT**](https://github.com/SharvariMehta/API-Automation-using-Postman-DDT) – Automated Google Search testing using Postman - Data Driven Testing (DDT).  
 🔹 [**API Manual Testing with REST API**](https://github.com/SharvariMehta/ManualTesting-API-REST) – E2E API manual testing repository using REST API - JSON and Postman Collections.       
@@ -29,10 +29,11 @@ Recently, I’ve been exploring **Generative AI** for **test case generation**, 
 🔹 [**Java4SDET**](https://github.com/SharvariMehta/Java4SDET) – Core Java programs covering OOPs, Collections, Multithreading, Exception Handling, and Coding Challenges.  
 
 ---
-## 🙋‍♀️ Let’s Connect 
+## 📧 Contact
 
-- 📧 **Email:** [sharvarimehta97@gmail.com](mailto:sharvarimehta97@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/sharvarimehta](https://www.linkedin.com/in/sharvarimehta)  
-- 🚀 **GitHub:** [github.com/SharvariMehta](https://github.com/SharvariMehta)  
-- 🔗 **Postman:** [postman.com/sharvarimehta](https://www.postman.com/sharvarimehta)
+👤 **Sharvari Mehta**
+📩 Email: [sharvarimehta97@gmail.com](mailto:sharvarimehta97@gmail.com)
+💼 LinkedIn: [linkedin.com/in/sharvarimehta](https://www.linkedin.com/in/sharvarimehta)
+🚀 GitHub: [github.com/sharvarimehta](https://github.com/sharvarimehta)
+
 --- 
