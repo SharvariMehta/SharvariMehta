@@ -31,7 +31,7 @@ Recently, I’ve been exploring **Generative AI** for **test case generation**, 
 ---
 ## 📧 Contact
 
-👤 **Sharvari Mehta**
+👤 **Sharvari Mehta**  
 📩 Email: [sharvarimehta97@gmail.com](mailto:sharvarimehta97@gmail.com)
 💼 LinkedIn: [linkedin.com/in/sharvarimehta](https://www.linkedin.com/in/sharvarimehta)
 🚀 GitHub: [github.com/sharvarimehta](https://github.com/sharvarimehta)
